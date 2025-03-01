@@ -1,0 +1,5 @@
+# Core dependencies
+socket
+threading
+queue
+datetime
